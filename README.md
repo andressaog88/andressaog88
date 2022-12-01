@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### Olá 👋, tudo bem? Meu nome é Andressa!
+### Olá 👋, tudo bem? Meu nome é Andressa!            
 
 ### Minhas redes 🌐
   
@@ -24,7 +24,7 @@ Hoje estou em processo de aprendizagem na área Dev e estou gostando bastante!
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="max-width: 100%;"></a>
   
- 
+ <img width="60" height="60" alt="" decoding="async" data-src="https://i.pinimg.com/originals/7e/f6/9c/7ef69cd0a6b0b78526c8ce983b3296fc.gif" class="attachment-md_bone_xl size-md_bone_xl wp-post-image lazyloaded" src="https://i.pinimg.com/originals/7e/f6/9c/7ef69cd0a6b0b78526c8ce983b3296fc.gif" pinger-seen="true">
           
           
 
